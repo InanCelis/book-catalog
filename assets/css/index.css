@@ -1,0 +1,16 @@
+.body{
+  background-color: #f2f2f2;  
+  font-family: "Roboto", Arial;
+}
+.book-parent{
+    margin-top: 20% !important;
+}
+.table {
+  margin-top:30px;
+}
+.modal-header {
+  border-bottom: 0 !important;
+}
+.modal-footer {
+  border-top: 0 !important;
+}
